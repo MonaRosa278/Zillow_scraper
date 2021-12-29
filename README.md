@@ -1,11 +1,18 @@
-# cs_projects
-#project1-zillowScraping 
-collect all the property listings attributes efficiently : location, number of bedrooms, renting price, etc… 
+# Project Overview 
+Zillow scraper lets you extract data about properties for sale and rent on Zillow using the Zillow API, but with no daily call limits. Scrape millions of listings and download your data. The code is for educational purpose only.
+ 
+ 
+## The fileds included 
 
-#project2-English_dictionary
-technologies& languagues used: sql, python
-
-#project3-coffeeBot
-interactive rule_based chatbot
-
-
+Title <br />
+Street Name <br />
+City <br />
+State <br />
+Zip Code <br />
+Price <br />
+Facts and Features <br />
+Real Estate Provider <br />
+URL <br />
+ 
+ ## language and tools
+Python3 
